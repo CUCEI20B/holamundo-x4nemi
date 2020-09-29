@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "holamundo",
+      "setup": "g++ -o main -std=c++11 main.cpp  ",
+      "run": "./main",
+      "input": "",
+      "output": "Hola Mundo!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
